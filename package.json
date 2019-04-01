@@ -1,0 +1,22 @@
+{
+  "name": "pipe-reports",
+  "version": "1.0.0",
+  "description": "Pipedrive report",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALONPC/pipe-reports.git"
+  },
+  "author": "Teu.ai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALONPC/pipe-reports/issues"
+  },
+  "homepage": "https://github.com/ALONPC/pipe-reports#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
